@@ -1,0 +1,2 @@
+module MyGem
+end
